@@ -1,5 +1,5 @@
 
-# Path: IPV6 SHORTENER.py
+#IPV6 SHORTENER.py
 
 from ipaddress import ip_address
 
